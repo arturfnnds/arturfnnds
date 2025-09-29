@@ -1,1 +1,1 @@
-# Greetings 👋, I'm Artur Fernandes
+### Hey, I'm Artur Fernandes! 👋
