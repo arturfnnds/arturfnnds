@@ -19,7 +19,11 @@ Meu objetivo é evoluir diariamente, compartilhar meus projetos aqui no GitHub e
 - **Ferramentas:** Git, VSCode, Postman, Docker (aprendendo)  
 - **Banco de Dados:** MySQL, MongoDB  
 
+---
+
 ## 📊 Estatísticas
+
+---
 
 ## 🌐 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/artur-fernandes-a38667387/)  
