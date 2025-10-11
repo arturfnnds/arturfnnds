@@ -1,6 +1,6 @@
-# 👾 Greetings, I'm Little Zé
+# 👾 Greetings, I'm Artur Fernandes
 
-Hey there! I’m **Little Zé**, a curious mind diving deep into the world of **Cybersecurity**.  
+Hey there! I’m **Artur Fernandes**, a curious mind diving deep into the world of **Cybersecurity**.  
 Right now, I’m on a journey of **constant learning**, exploring offensive security, digital defense, and ethical hacking.
 
 My goal is to master the tools, understand vulnerabilities, and build safer systems — always with **ethics, discipline, and creativity**.
