@@ -10,7 +10,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,vscode,github" />
 </p>
 
----
 
 <p align="center">
   <a href="https://github.com/arturfnnds" target="_blank">
@@ -25,10 +24,4 @@
   <a href="https://www.behance.net/arturfnnds" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <sub>✨ Desenvolvido com foco em clareza, propósito e design — por <strong>Little Zé</strong>.</sub>
 </p>
