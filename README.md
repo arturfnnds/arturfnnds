@@ -15,4 +15,5 @@ My goal is to master the tools, understand vulnerabilities, and build safer syst
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 “Knowledge is the most powerful weapon. Use it to protect, not to destroy.”
+
 "The people should not fear their government. The government should fear its people."
