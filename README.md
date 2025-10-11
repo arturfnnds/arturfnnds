@@ -5,7 +5,6 @@
   Criando interfaces funcionais, minimalistas e com propósito.
 </p>
 
-Passionate about clean design and delightful user experiences, I’m a developer focused on HTML, CSS, JavaScript, and Python, always striving to combine aesthetics and performance in every project while exploring new ideas and continuously improving my skills.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,vscode,github" />
