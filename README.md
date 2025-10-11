@@ -1,4 +1,4 @@
-# 👾 Little Zé — Cybersecurity Student & Ethical Hacker in Progress
+# 👾 Greetings, I'm Little Zé
 
 Hey there! I’m **Little Zé**, a curious mind diving deep into the world of **Cybersecurity**.  
 Right now, I’m on a journey of **constant learning**, exploring offensive security, digital defense, and ethical hacking.
