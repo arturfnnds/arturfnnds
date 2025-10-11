@@ -5,26 +5,16 @@
   Criando interfaces funcionais, minimalistas e com propósito.
 </p>
 
-### 🧠 Sobre mim  
-- 🎨 Apaixonado por design limpo e experiências que encantam  
-- 💻 Desenvolvedor focado em **HTML, CSS, JavaScript** e **Python**  
-- ⚡ Busco unir **estética + performance** em cada projeto  
-- 🚀 Sempre explorando novas ideias e aprimorando habilidades  
-
-### 🛠️ Tecnologias & Ferramentas  
+Passionate about clean design and delightful user experiences, I’m a developer focused on HTML, CSS, JavaScript, and Python, always striving to combine aesthetics and performance in every project while exploring new ideas and continuously improving my skills.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,figma,vscode,github" />
 </p>
 
-### 📊 Estatísticas do GitHub  
-
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arturfnnds&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturfnnds&layout=compact&theme=graywhite&hide_border=true"/>
 </p>
-
-### 🌐 Conecte-se comigo  
 
 <p align="center">
   <a href="https://github.com/arturfnnds" target="_blank">
